@@ -35,6 +35,62 @@
   ],
   "Addon": [
     {
+        "name": "Bioplentia",
+        "role": "Bioplentia is a biome addon for Minecraft Bedrock. You can travel biomes and explore the landscape. Along with the new biomes, it adds new mobs, plants, flowers, trees, building blocks.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Frog/13/3.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Frog/13/Bioplentia1171111120210828.mcaddon",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Frog/13/2.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Frog/13/1.png"
+    },
+    {
+        "name": "Frog Addon",
+        "role": "This addon adds 5 different frogs to the game which can be found in the jungle also adds cockroaches cockroaches appear in any biome but the frogs will take care of eating them",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Frog/14/1.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Frog/14/Frog Addon by Team Infinite Minds and S-Mods.mcaddon",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Frog/14/1.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Frog/14/1.png"
+    },
+    {
+        "name": "Jurassic Project Addon",
+        "role": "The addon is presented in beta version with only 13 dinosaurs and 1 hibrid, it will soon be updated with more features and functions. In this beta version, dinosaurs have some different functions and animations.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Frog/16/3.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Frog/16/jurassic_project_addon.mcaddon",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Frog/16/2.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Frog/16/1.png"
+    },
+    {
+        "name": "Mine-Frog Add-on",
+        "role": "This addon replaces rabbits with 7 different types of frogs which you can keep as pets. They are very weak compared to let's say a wolf and needs to be well taken care of in order to survive in Minecraft. It's a really cute and harmless creature, but it would have be even better if it included some custom frog sounds.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Frog/2/3.jpg",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Frog/2/Mine-Frogs Packs.mcaddon",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Frog/2/2.jpg",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Frog/2/1.jpg"
+    },
+    {
+        "name": "SwampPLUS Addon (NEW Swamp Update)",
+        "role": "The swamps in Minecraft have always needed a major update, the SwampPLUS addon changes all that by adding new structures, mobs, items, and blocks to make the swamps feel more alive.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Frog/5/3.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Frog/5/SwampPLUS.mcaddon",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Frog/5/2.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Frog/5/1.png"
+    },
+    {
+        "name": "Darwin's Frog",
+        "role": "(Warning maybe this addon will not work on Windows 10 edition) Yes, the Darwin's frog it's now here in minecraft, a little frog from the patagonic cold forests, a endangered one, i have made this add-on with one hope, and that is, that the world start knowing about this frog endemic of Chile and Argentina, we need to save it from the exntinction.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Frog/7/3.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Frog/7/1616016281872.mcaddon",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Frog/7/2.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Frog/7/1.png"
+    },
+    {
+        "name": "More Pets Add-On",
+        "role": "An addon that will add new different types of Minecraft Pets also with new Items and Food, this is Work In Progress project so expect continous updates to models, textures, functionalities, etc.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Frog/12/3.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Frog/12/More_PetsRV1.3.mcaddon",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Frog/12/2.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Frog/12/1.png"
+    },
+    {
         "name": "Minecraft Caves and Cliffs Addon (Lush Caves Update)",
         "role": "Can you not wait for the Caves and Cliffs update to be released? Would you like to play with some of the new features that haven't even been added in betas yet now? Well, this addon is for you. It adds some concepts of new features like amethyst, glow berries and more. I hope you enjoy this new addon.",
         "image": "https://kossandroid.com/Data Android/Minecraft/Caves and Cliffs/7/lima.png",
@@ -70,6 +126,46 @@
     }
   ],
   "Texture": [
+    {
+        "name": "FORGS Resource Pack",
+        "role": "This is a simple but really great resource pack which transforms the rabbits in your world into friendly amphibians known as frogs! The frogs have complete new textures, models and sounds. It's perfect for all you frog lovers out there!",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Frog/1/1.jpg",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Frog/1/FORGS.mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Frog/1/1.jpg",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Frog/1/1.jpg"
+    },
+    {
+        "name": "Swamp Enchants Addon (B)",
+        "role": "So you want to experience the things seen in Minecraft Live 2021, so you're in the right place, now it's closer than ever, on your Minecraft Be, come be a part of this gooey swamp world.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Frog/3/4.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Frog/3/Swamp Enchants Behavior Pack 1.01.mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Frog/3/3.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Frog/3/2.png"
+    },
+    {
+        "name": "Swamp Enchants Addon (R)",
+        "role": "So you want to experience the things seen in Minecraft Live 2021, so you're in the right place, now it's closer than ever, on your Minecraft Be, come be a part of this gooey swamp world.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Frog/3/4.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Frog/3/Swamp Enchants Resource Pack 1.01.mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Frog/3/3.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Frog/3/2.png"
+    },
+    {
+        "name": "Abstract's Recraft: An Overhaul Add-on! (Massive Update!) (B)",
+        "role": "We all wish some aspects of Minecraft would be updated or changed, but with one major update a year some aspects that need updating can take a while to be changed. With my add-on, I plan to make these changes we all want with the input and ideas of anyone who enjoys this add-on!",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Frog/4/4.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Frog/4/AROA1.5BP.mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Frog/4/3.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Frog/4/2.png"
+    },
+    {
+        "name": "Abstract's Recraft: An Overhaul Add-on! (Massive Update!) (R)",
+        "role": "We all wish some aspects of Minecraft would be updated or changed, but with one major update a year some aspects that need updating can take a while to be changed. With my add-on, I plan to make these changes we all want with the input and ideas of anyone who enjoys this add-on!",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Frog/4/4.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Frog/4/AROA1.5RP.mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Frog/4/3.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Frog/4/2.png"
+    },
     {
         "name": "EVO Shader Mod V1.2.1",
         "role": "EVO Shader will bring your MCPE to �realistic looking� with realistic lighting, it�s had many improvements in graphic, also have directional lighting from sun,semi-3D Cloud without lag and many more, I hope you all enjoyed it",
@@ -133,6 +229,78 @@
         "file_url": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/1/ReBuilt-Shader-v1.0.2_1603435794.mcpack",
         "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/1/dua_desc.png",
         "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/1/dua_desc.png"
+    },
+    {
+        "name": "yBiomes Craft (1.17 and 1.18) (B)",
+        "role": "yBiomes is here! HAVE MANY FULL NATURAL GENERATION biomes in your game! For you to have fun with many new trees, structures and biomes very interesting and great to complete your survival and their worlds!",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Frog/6/3.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Frog/6/yBiomesCraftBP.mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Frog/6/2.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Frog/6/1.png"
+    },
+    {
+        "name": "yBiomes Craft (1.17 and 1.18) (R)",
+        "role": "yBiomes is here! HAVE MANY FULL NATURAL GENERATION biomes in your game! For you to have fun with many new trees, structures and biomes very interesting and great to complete your survival and their worlds!",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Frog/6/3.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Frog/6/yBiomesCraftRP.mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Frog/6/2.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Frog/6/1.png"
+    },
+    {
+        "name": "Hungry Hungry Frog",
+        "role": "to create this mod, I simply took some frogs from the wild in the latest minecraft beta, and kept him from his favorite food (slimes) for a few hours to build up a massive apatite, so big in fact that they can and will eat anything to fill the void that is their belly, I then packaged them up into a bundle and posted it on here ready to spawn in your worlds",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Frog/8/3.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Frog/8/hungry hungry frogs.mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Frog/8/2.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Frog/8/1.png"
+    },
+    {
+        "name": "Frogs Wild Update Concept Addon",
+        "role": "With this addon you can get some features of the future wild update, for example the new frogs!!Naturally, many more features announced at minecon 2021 are in development, and possibly i would like to add hypothetical custom features not announced at minecon live, just my personal concepts",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Frog/9/3.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Frog/9/FrogsWildUpdate.mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Frog/9/2.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Frog/9/1.png"
+    },
+    {
+        "name": "Frogs Eat Everything (BETA ONLY)",
+        "role": "Frogs are the first mob in Minecraft to actually eat other mobs, this addon will make frogs eat every monster in mob in Minecraft besides Slimes & Magma Cubes and makes an hilarious addon.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Frog/10/3.jpeg",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Frog/10/Frog Eats.mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Frog/10/2.jpeg",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Frog/10/1.png"
+    },
+    {
+        "name": "Terracotta Expansion",
+        "role": "Here it is, Terracotta Expansion. An expansion type of add-on that focusing on biomes, mobs, and features addition. Gather up your resources and travel to a new biomes, feed some new animals, and play with them. I'm very happy to introduce you some of the new stuff that are in this add-on,",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Frog/11/3.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Frog/11/Terracotta Expansion BP.mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Frog/11/2.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Frog/11/1.png"
+    },
+    {
+        "name": "Terracotta Expansion",
+        "role": "Here it is, Terracotta Expansion. An expansion type of add-on that focusing on biomes, mobs, and features addition. Gather up your resources and travel to a new biomes, feed some new animals, and play with them. I'm very happy to introduce you some of the new stuff that are in this add-on,",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Frog/11/3.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Frog/11/Terracotta Expansion RP.mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Frog/11/2.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Frog/11/1.png"
+    },
+    {
+        "name": "Minecraft Java Edition's Translation (Bedrock) (Only for Traditional Chinese",
+        "role": "The translation of Minecraft is worse so this texture pack would fix this problem of Traditional Chinese.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Frog/15/1.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Frog/15/繁體中文修正資源包.mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Frog/15/2.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Frog/15/1.png"
+    },
+    {
+        "name": "Mob Hider V26 (Bug Fixes!)",
+        "role": "Mob Hider is an addon for those who want to become mobs and monsters in Minecraft PE.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Frog/21/3.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Frog/21/Mob Hider V26.mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Frog/21/2.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Frog/21/1.png"
     },
     {
         "name": "SufiCraft Shader v0.2",
